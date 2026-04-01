@@ -1,0 +1,7 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/v2", "destination": "/v2/playbook.html" }
+  ]
+}
